@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "db-migrator": {
+      "commandName": "Project",
+      "commandLineArgs": "show -c \"Server=.\\sqlexpress;Integrated Security=True;Database=olimpo;TrustServerCertificate=true\""
+    }
+  }
+}
